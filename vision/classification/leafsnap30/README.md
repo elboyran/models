@@ -114,7 +114,7 @@ ort_test_dir_utils.create_test_dir(model_path, 'temp/examples', 'test2', name_in
 ```
 
 ### More details
-https://github.com/microsoft/onnxruntime/blob/master/tools/python/PythonTools.md
+[LeafSnap model generation](https://github.com/dianna-ai/dianna-exploration/tree/main/example_data/model_generation/LeafSnap)
 
 <hr>
 
